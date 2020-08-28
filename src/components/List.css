@@ -1,0 +1,28 @@
+.list-box {
+    background-color: rgb(161, 203, 252);
+    height: 38px;
+    width: 410px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+
+}
+.task-text {
+    margin-left: 8px;
+    font-size: 20px;
+    color: rgb(1, 64, 136);
+    font-weight: 500;
+}
+.x-text {
+    font-size: 12px;
+    color: rgb(1, 64, 136);
+    margin-right: 8px;
+    margin-bottom: 18px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.loading {
+    color: rgb(112, 253, 119);
+}
