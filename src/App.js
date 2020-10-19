@@ -11,8 +11,10 @@ class App extends React.Component {
     list: [],
     task: '',
     taskList: [],
-    loaded: false
+    loaded: false,
+    test: ''
   }
+  //Test
 
   // async componentDidMount() {
   //   await fetch('http://localhost:4058/tasks')
